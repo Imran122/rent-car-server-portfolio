@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sacred-garden-349304",
+  "private_key_id": "71fe8be56bd79dcb50674e7693549aa54415e849",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDtg9gU4raUbefO\n624EGSeirwzReHmcRGx7Ta945PzfBOgGhNHp5zBEdaF+q79NnKuH4fpGyqXieUnz\nbkuKBxC8gat4UWk80vHRGeaOLoR+/Tc1r3y9QP02U5F+fKYqBrDU7RSv8MwBNflZ\nJ6uNwc9+QabCO+olTg77HJn2VSbN5LDm16dkJNNnOXTA19RtJhvIBGuRVAjDi+wp\nymCvTJkOgcXvg6sVc8EaWLFfNcHuVk7lmXX+ei09UbeJ1Gm0l/vld71Dxg/wi8m+\nC7hrtGvLAsWj6RYFsWP97SyClYJ0s36ClxqileN0SHQQvbAmwCoQRvAg+2AOLRtk\nfD6I48kfAgMBAAECggEAIoQqfr6DsgZWzadBEa9mJyoxPq+3XJJFAZZEjdkZNn/M\nCEZ9CvTh+tDtay8iWfEOrGyWpnsEqGjf6lR4/dIRCJP/iziphoFRSwXsj3ULJDlA\nMLkT85ziL2btmegbbbgTMp5Rh1ADFZn2ZpJxR+SGdt6rkUaLvGgfnTaG2Vl+jiUK\nKme/BZdAj1fdO+qSFFnAp4U4ldAqmqb64Hf/xxO8rgDp78J3uahheiJxEWeOEx9K\n46p59GXYNeg1TxxFdwqCeu8wR/LmOoHmSdbVc2onOLnKaEBur6xhKgcC2wfHM3vm\nZvuejygXzAy4PH6GroNaXwcNf8Wa+cnktXtovOP7AQKBgQD/CtDAfUbcyidwsPLi\nW2hFET2PJihwP5jF1+B4gscFqMDvWM8JAcubS4n+2UZoUdWRTKRQ9LMzyDnptYkX\ntY/rFO64U7I9cJbSEyNjCvAEJJKaMkgWuOgXZ6l8qS/7Cevh7nDef6Pu/K4UZwLi\nlQ7rmxxe1IHrqV7yRpSRkEj4PwKBgQDuaC3I+dYqC3rUi4uLazNvrXrX0kJ8YKQw\nw5ccj1f+p0vcRN+ncwW2Iv7+it0xivDT4bXhcJHYIi96oPc50rweAB7rljbsDR/Y\nfpR9GWLQuagaL6TlfimBUEP8WNeLoVDA8yQLCKO1x8wlkhvp7QcggPR40PXi8DuL\n8Ugqwkn3IQKBgCU+DRGuuYRQOMYp8K3BL062n8ihh9IsV0C8r1ipsCpRZCsPStxD\n2NmKhFIkpDVjjc4z5OK1eN2c5WgNTEGcD7ICUoG0Jxj1sfBnPwmddUMFnCrMIN7A\njZOtXYCIrCr6XemWCgFTnjqtxzXPfQpdPdqFwfTPD1G8X9L9H4DKEv29AoGAAslY\n76Zr6GXl86IF6YVBPqbqbqdYe5etk5xVodHTF3jhHBv5+T0Q7gYOsO7ykueq1O8o\nbxAfxETyBR7ohNZ/uGIL+njw/2VP3/nqxmOLkiD5ZAT2inAlEAveH47yRgGGrhqp\nay+YqkFBk5bXmK5ajPi04syecx6Xs5UIYOeQccECgYAkZ9DjsWyHtem1xV/Tpz43\ndMlB8mW/MJtyDf1x8s13uCqVCcgTf+AQ/Z8aAPaZoLxAV1X6z8Dc03nEbmC3Jupi\nxk9GTlCGTQUk93OmqdS8S0gJtRdGSU2Us9X/RugDzjuYLjBiNZ61TMjUNYQm2lfq\nNFiTEWvv6PeC6bCUAPffcg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "car-rental@sacred-garden-349304.iam.gserviceaccount.com",
+  "client_id": "117172333314310622524",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/car-rental%40sacred-garden-349304.iam.gserviceaccount.com"
+}
